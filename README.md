@@ -2,7 +2,7 @@
 
 ## What is it?
 WinterArc.Life is place for community of huslters, builders, and anyone who wants to achieve a certain goal.
-The purpose for this repository is that any developer like  junior developer or a fresher can have a live platform where they can contribute any feature which will be shown in real world. Whether you're a junior developer or a fresher, this is your chance to upskill by working on a production environment. Got an idea? anything even small? Create a PR and  ship it! No judging, how dumb the code or idea is. just do it.
+The purpose for this repository is that any developer like  junior developer or a fresher can have a live platform where they can contribute any feature which will be shown in real world. Whether you're a junior developer or a fresher, this is your chance to upskill by working on a production environment to get ready for real world work. Got an idea? anything even small? Create a PR and  ship it! No judging, how dumb the code or idea is. just do it.
 
 ## How to use
 
